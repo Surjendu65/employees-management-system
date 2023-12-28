@@ -1,0 +1,9 @@
+<changeSet id="dropColumn" author="practice">
+    <dropColumn
+            tableName="employees"
+            columnName="emp_id_emp_id"/>
+</changeSet>
+
+
+
+
